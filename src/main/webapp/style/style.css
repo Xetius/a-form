@@ -21,7 +21,7 @@ body {
 .menu {
     width: 100%;
     float: left;
-    background-color: #850042;
+    background-color: #800a45;
     height: 30px;
 }
 
@@ -31,7 +31,7 @@ ul.menu {
     list-style: none;
 }
 
-li.menu {
+li {
     float: left;
     width: 150px;
     padding: 0px;
@@ -39,22 +39,22 @@ li.menu {
     text-align: center;
 }
 
-li.menu.last {
+li.last {
     float: right;
 }
 
-li.menu a {
+li a {
     display: block;
+    padding: 6px 20px;
+    hight: 100%;
     color: white;
     text-decoration: none;
-    padding: 6px 20px;
-    font-family: Palatino, serif;
-    font-size: 18px;
-    height:18px;
-    background: transparent url(../images/btn_bg.png) 0 -150 fixed;
 }
 
-a:hover {
+li a {
+    background: url(../images/btn_bg.png) repeat 0 -180px;
+}
+
+li a:hover {
     background-position: 0 0;
 }
-

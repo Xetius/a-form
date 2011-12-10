@@ -62,7 +62,7 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/style/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="66" selection-start="831" selection-end="831" vertical-scroll-proportion="0.0">
+            <state line="41" column="3" selection-start="555" selection-end="555" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -71,50 +71,16 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/script/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="38" selection-start="503" selection-end="503" vertical-scroll-proportion="0.49227798">
+            <state line="18" column="22" selection-start="492" selection-end="492" vertical-scroll-proportion="0.5212355">
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="logo.png" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/images/logo.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.jsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="51" selection-start="442" selection-end="442" vertical-scroll-proportion="-9.375">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
-            <state />
-          </provider>
-          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
-            <state />
-          </provider>
-          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="site.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/site/site.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="11" column="63" selection-start="322" selection-end="322" vertical-scroll-proportion="-6.875">
               <folding />
             </state>
           </provider>
@@ -137,8 +103,8 @@
         <option value="$PROJECT_DIR$/web/index.jsp" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/script/script.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/style/style.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/script/script.js" />
       </list>
     </option>
   </component>
@@ -751,7 +717,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/main/webapp/script/script.js</url>
-          <line>18</line>
+          <line>16</line>
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -790,23 +756,28 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/images/btn_bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="51" selection-start="442" selection-end="442" vertical-scroll-proportion="-9.375">
+        <state line="11" column="63" selection-start="322" selection-end="322" vertical-scroll-proportion="-6.875">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/style/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="66" selection-start="831" selection-end="831" vertical-scroll-proportion="0.0">
+        <state line="41" column="3" selection-start="555" selection-end="555" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/script/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="38" selection-start="503" selection-end="503" vertical-scroll-proportion="0.49227798">
+        <state line="18" column="22" selection-start="492" selection-end="492" vertical-scroll-proportion="0.5212355">
           <folding />
         </state>
       </provider>
