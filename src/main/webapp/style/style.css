@@ -1,0 +1,60 @@
+body {
+    background-color: white;
+    color: black;
+    margin: 0px;
+}
+
+.header {
+    width: 100%;
+    height: 90px;
+    float: left;
+}
+
+.logo {
+    margin: 10px;
+    width: auto;
+    height: 97px;
+    background-image: url("../images/logo.png");
+    background-repeat: no-repeat;
+}
+
+.menu {
+    width: 100%;
+    float: left;
+    background-color: #850042;
+    height: 30px;
+}
+
+ul.menu {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+li.menu {
+    float: left;
+    width: 150px;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+
+li.menu.last {
+    float: right;
+}
+
+li.menu a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 6px 20px;
+    font-family: Palatino, serif;
+    font-size: 18px;
+    height:18px;
+    background: transparent url(../images/btn_bg.png) 0 -150 fixed;
+}
+
+a:hover {
+    background-position: 0 0;
+}
+
