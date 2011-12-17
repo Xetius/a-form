@@ -1,0 +1,93 @@
+body {
+    background-color: white;
+    color: black;
+    margin: 0px;
+}
+
+.header {
+    width: 100%;
+    height: 90px;
+    float: left;
+}
+
+.logo {
+    margin: 10px;
+}
+
+.menu {
+    width: 100%;
+    float: left;
+    background-color: #800a45;
+    height: 30px;
+}
+
+ul.menu {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+li {
+    float: left;
+    width: 150px;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+
+li.last {
+    float: right;
+}
+
+li a {
+    display: block;
+    padding: 6px 20px;
+    hight: 100%;
+    color: white;
+    text-decoration: none;
+}
+
+li a {
+    background: url(../images/btn_bg.png) repeat 0 -180px;
+}
+
+li a:hover {
+    background-position: 0 0;
+}
+
+div {
+    position: relative;
+    float: left;
+}
+div.content {
+    padding: 20px 60px;
+}
+
+img.logo {
+    position: relative;
+    float: left;
+    height: 70px;
+    width: 289px;
+}
+
+img.about {
+    float: right;
+    border: 5px black solid;
+    margin: 0;
+    margin-left: 20px;
+
+}
+
+div.footer {
+    width: 100%;
+    margin-top: 60px;
+    padding-top: 30px;
+    border-top: 1px black solid;
+    font-family: helvetica sans-serif;
+    font-size: 10px;
+    color: gray;
+}
+
+div.footer span {
+    padding: 20px;
+}
