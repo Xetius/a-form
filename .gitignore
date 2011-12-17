@@ -1,9 +1,7 @@
 .DS_Store
-.idea
 
-*~
-*.swp
-
-tmp/**/* 
-target/**/*
-.idea/**/*
+tmp/
+target/
+.idea/
+aFORM/
+design/
