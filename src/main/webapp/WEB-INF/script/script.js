@@ -19,3 +19,22 @@ $(function() {
                 }, 200)
         })
 });
+
+function addGalleries(number) {
+    for(i=1; i<=number; i++) {
+        addGalleryItem(i);
+    }
+}
+
+function addGalleryItem(itemNumber) {
+    var li = document.createElement("li");
+    var a = document.createElement("a").addClass("thumb").name("image" + itemNumber).href("gallery/" + itemNumber + ".jpg").title("image " + itemNumber);
+    var img = document.createElement("img").src("thumbs/" + itemNumber + ".jpg").alt("image " + itemNumber);
+    var div = document.createElement("div").innerText("Image " + itemNumber);
+
+    img.append(div);
+    a.append(img);
+    li.append(a);
+
+    $("ul.menu").append(li);
+}

@@ -11,6 +11,7 @@
     <head>
         <title><t:insertAttribute name="title" ignore="true"/></title>
         <t:insertAttribute name="scripts"/>
+        <t:insertAttribute name="optionalScripts" ignore="true"/>
     </head>
     <body>
         <t:insertAttribute name="header"/>

@@ -3,7 +3,7 @@
         "http://tiles.apache.org/dtds/tiles-config_2_1.dtd">
 <tiles-definitions>
     <definition name="template" template="/WEB-INF/views/main_template.jsp">
-        <put-attribute name="title" value="" />
+        <put-attribute name="title" value=""/>
         <put-attribute name="scripts" value="/WEB-INF/views/tiles/scripts.jsp"/>
         <put-attribute name="header" value="/WEB-INF/views/tiles/header.jsp"/>
         <put-attribute name="menu" value="/WEB-INF/views/tiles/menu.jsp"/>
@@ -12,32 +12,33 @@
     </definition>
 
     <definition name="home" extends="template">
-        <put-attribute name="title" value="A-Form Catering - Home" />
+        <put-attribute name="title" value="A-Form Catering - Home"/>
         <put-attribute name="content" value="/WEB-INF/views/tiles/home.jsp"/>
     </definition>
 
     <definition name="gallery" extends="template">
-        <put-attribute name="title" value="A-Form Catering - Gallery" />
+        <put-attribute name="title" value="A-Form Catering - Gallery"/>
+        <put-attribute name="optionalScripts" value="/WEB-INF/views/tiles/gallery_scripts.jsp"/>
         <put-attribute name="content" value="/WEB-INF/views/tiles/gallery.jsp"/>
     </definition>
 
     <definition name="venues" extends="template">
-        <put-attribute name="title" value="A-Form Catering - Venues" />
+        <put-attribute name="title" value="A-Form Catering - Venues"/>
         <put-attribute name="content" value="/WEB-INF/views/tiles/venues.jsp"/>
     </definition>
 
     <definition name="testimonials" extends="template">
-        <put-attribute name="title" value="A-Form Catering - Testimonials" />
+        <put-attribute name="title" value="A-Form Catering - Testimonials"/>
         <put-attribute name="content" value="/WEB-INF/views/tiles/testimonials.jsp"/>
     </definition>
 
     <definition name="pricing" extends="template">
-        <put-attribute name="title" value="A-Form Catering - Pricing" />
+        <put-attribute name="title" value="A-Form Catering - Pricing"/>
         <put-attribute name="content" value="/WEB-INF/views/tiles/pricing.jsp"/>
     </definition>
 
     <definition name="contact" extends="template">
-        <put-attribute name="title" value="A-Form Catering - Contact Us" />
+        <put-attribute name="title" value="A-Form Catering - Contact Us"/>
         <put-attribute name="content" value="/WEB-INF/views/tiles/contact.jsp"/>
     </definition>
 </tiles-definitions>
