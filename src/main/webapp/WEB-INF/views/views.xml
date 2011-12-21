@@ -5,6 +5,7 @@
     <definition name="template" template="/WEB-INF/views/main_template.jsp">
         <put-attribute name="title" value=""/>
         <put-attribute name="scripts" value="/WEB-INF/views/tiles/scripts.jsp"/>
+        <put-attribute name="optionalScripts" value="/WEB-INF/views/tiles/default_scripts.jsp"/>
         <put-attribute name="header" value="/WEB-INF/views/tiles/header.jsp"/>
         <put-attribute name="menu" value="/WEB-INF/views/tiles/menu.jsp"/>
         <put-attribute name="content" value=""/>

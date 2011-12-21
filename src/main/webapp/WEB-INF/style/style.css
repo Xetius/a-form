@@ -73,6 +73,7 @@ img.logo {
 img.about {
     float: right;
     border: 5px black solid;
+    border-radius: 5px;
     margin: 0;
     margin-left: 20px;
 
