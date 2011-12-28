@@ -1,12 +1,8 @@
 <div class="gallery">
-    <h1>Gallery</h1>
 
     <div id="page">
+        <h1>Gallery</h1>
         <div id="container">
-            <h1><a href="index.html">Galleriffic</a></h1>
-
-            <h2>Thumbnail rollover effects and slideshow crossfades</h2>
-
             <!-- Start Advanced Gallery Html Containers -->
             <div id="gallery" class="gallery-content">
                 <div id="controls" class="controls"></div>

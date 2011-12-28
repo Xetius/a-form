@@ -20,7 +20,7 @@ var AFORM = (function ($) {
 
     return {
         setupMenu:function () {
-            /*$("ul.menu a")
+            $("ul.menu a")
                 .css({backgroundPosition:'0px -180px'})
 
                 .mouseover(function () {
@@ -33,7 +33,7 @@ var AFORM = (function ($) {
                     $(this).stop().animate({
                         backgroundPosition:'0px -180px'
                     }, 200)
-                })*/
+                })
         },
 
         initGallery : function () {
