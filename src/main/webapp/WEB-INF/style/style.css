@@ -1,6 +1,7 @@
 html, body {
     margin: 0;
     padding: 0;
+    min-width: 1050px;
 }
 
 body {
@@ -25,12 +26,13 @@ body {
 .menu {
     width: 100%;
     float: left;
-    background-color: #800a45;
-    height: 30px;
+    background-color: #920042;
+    height: 27px;
 }
 
 ul.menu {
     float: left;
+    height: 27px;
     margin: 0px;
     padding: 0px;
     list-style: none;
@@ -51,7 +53,6 @@ ul.menu li.last {
 ul.menu li a {
     display: block;
     padding: 6px 20px;
-    hight: 100%;
     color: white;
     text-decoration: none;
 }
@@ -340,4 +341,50 @@ div.gallery div.pagination span.current {
 div.gallery div.pagination span.ellipsis {
     border: none;
     padding: 5px 0 3px 2px;
+}
+
+.buttons {
+}
+
+.buttons img {
+    height: 100px;
+    width: 600px;
+}
+
+.buttons .img_wrapper {
+    margin-bottom: 10px;
+    border:5px #000000 solid;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+div.testimonial {
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+
+div.testimonial blockquote {
+    margin-left:100px;
+    margin-right:auto;
+    width: 600px;
+}
+
+div.testemonial blockquote p {
+    color: black;
+}
+
+div.testemonial blockquote p:first-letter {
+    font-size: 200%;
+    color: #920042;
+}
+
+.testimonial span {
+    display: block;
+    float: right;
+    text-align: right;
+    color: #777777;
+    font-style: italic;
 }

@@ -25,7 +25,14 @@
 
     <definition name="venues" extends="template">
         <put-attribute name="title" value="A-Form Catering - Venues"/>
+        <put-attribute name="optionalScripts" value="/WEB-INF/views/tiles/button_fade_scripts.jsp"/>
         <put-attribute name="content" value="/WEB-INF/views/tiles/venues.jsp"/>
+    </definition>
+
+    <definition name="suppliers" extends="template">
+        <put-attribute name="title" value="A-Form Catering - Suppliers"/>
+        <put-attribute name="optionalScripts" value="/WEB-INF/views/tiles/button_fade_scripts.jsp"/>
+        <put-attribute name="content" value="/WEB-INF/views/tiles/suppliers.jsp"/>
     </definition>
 
     <definition name="testimonials" extends="template">
@@ -42,4 +49,5 @@
         <put-attribute name="title" value="A-Form Catering - Contact Us"/>
         <put-attribute name="content" value="/WEB-INF/views/tiles/contact.jsp"/>
     </definition>
+
 </tiles-definitions>
