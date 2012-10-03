@@ -40,9 +40,9 @@
         <put-attribute name="content" value="/WEB-INF/views/tiles/testimonials.jsp"/>
     </definition>
 
-    <definition name="pricing" extends="template">
-        <put-attribute name="title" value="A-Form Catering - Pricing"/>
-        <put-attribute name="content" value="/WEB-INF/views/tiles/pricing.jsp"/>
+    <definition name="menus" extends="template">
+        <put-attribute name="title" value="A-Form Catering - Menus"/>
+        <put-attribute name="content" value="/WEB-INF/views/tiles/menus.jsp"/>
     </definition>
 
     <definition name="contact" extends="template">

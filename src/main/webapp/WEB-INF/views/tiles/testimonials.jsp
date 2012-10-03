@@ -1,6 +1,14 @@
 <div class="content">
     <h1>Testimonials</h1>
 
+    <p class="first">IF YOU PROVIDE A GREAT SERVICE , YOUR CUSTOMERS WILL
+    SPREAD THE WORD:-</p>
+
+    <p>We know the best form of advertising our business is &apos;The Client&apos; and
+    we are delighted that so much of our business has been based on their
+    recommendations which has brought about repeated events every year.</p>
+
+
     <div class="testimonial">
         <blockquote>
             <p>Thank you for making my last day as Club Captain so special. The presentation of the tables and the

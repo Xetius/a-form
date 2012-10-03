@@ -28,8 +28,8 @@
       <excludeFolder url="file://$MODULE_DIR$/target/a-form" />
       <excludeFolder url="file://$MODULE_DIR$/target/classes" />
       <excludeFolder url="file://$MODULE_DIR$/target/maven-archiver" />
-      <excludeFolder url="file://$MODULE_DIR$/target/war" />
-      <excludeFolder url="file://$MODULE_DIR$/target/work" />
+      <excludeFolder url="file://$MODULE_DIR$/target/surefire" />
+      <excludeFolder url="file://$MODULE_DIR$/target/test-classes" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

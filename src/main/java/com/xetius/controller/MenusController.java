@@ -10,10 +10,10 @@ import org.springframework.web.bind.annotation.RequestMethod;
  * Time: 00:48
  */
 @Controller
-public class PricingController {
+public class MenusController {
 
-    @RequestMapping(value = "/pricing", method = RequestMethod.GET)
+    @RequestMapping(value = "/menus", method = RequestMethod.GET)
     public String showPricingPage() {
-        return "pricing";
+        return "menus";
     }
 }

@@ -19,6 +19,7 @@
     <mvc:resources mapping="gallery/**" location="/WEB-INF/gallery/"/>
     <mvc:resources mapping="style/**" location="/WEB-INF/style/"/>
     <mvc:resources mapping="script/**" location="/WEB-INF/script/"/>
+    <mvc:resources mapping="downloads/**" location="/WEB-INF/downloads/"/>
 
     <bean id="viewResolver"
           class="org.springframework.web.servlet.view.UrlBasedViewResolver">

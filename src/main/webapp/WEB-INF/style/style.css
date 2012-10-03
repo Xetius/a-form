@@ -69,6 +69,10 @@ div.content {
     padding: 20px 60px;
 }
 
+div.content p.first {
+    font-weight: bold;
+}
+
 img.logo {
     position: relative;
     float: left;

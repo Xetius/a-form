@@ -2,18 +2,24 @@
     <h1>About Us</h1>
     <img class="about" src="images/about.jpg" alt="about" />
 
-    <p>As one of the Southeast's most exclusive caterers with over 10 years of experience, our company also known as
-        Alexander Catering, can handle events from 10 to 1,000 people, Weddings, Celebrations, Corporate Summer Balls,
-        Corporate Dining, Directors Functions, Buffet's, Champagne &amp; Canap&eacute;&apos;s Receptions, Spit Roast and
-        BBQ&apos;s in fact
-        all aFORM of catering.</p>
+    <p class="first">THERE AE NO SECRETS TO SUCCESS. IT IS THE RESULT
+    OF PREPARATION, HARDWORK, DEDICATION, PASSION &
+    EXPERIENCE.<p>
 
-    <p>We pride ourselves in offering a gracious, honest, and reliable service. Whether you are planning an intimate
-        gathering or a lavish affair, we will help you to create an event that will delight your guests and exceed all
-        your expectations.</p>
+    <p>As one of the Southeast&apos;s most exclusive caterer with over 17 years
+    of experience, our company can handle event&apos;s: Weddings, Corporate
+    Summer Balls, Corporate Dinning, Buffet&apos;s, Champagne &amp; Canap&eacute;s
+    Reception, Spit Roast, BBQ&apos;s, Mobile Bars, in fact all &apos;FORM&apos;s of
+    Catering&apos;, at all types of venue&apos;s to fix buildings, marquee&apos;s, Naval ships
+    and so on.</p>
 
-    <p>As a full-service caterer we offer everything from linen, crockery, cutlery, glassware and of course our highly
-        trained team.</p>
+    <p>We pride ourselves in offering a gracious, honest, flexible and reliable
+    service. Whether you are planning an intimate gathering or a lavish
+    affair, we will help you to create an event that will delight your guests
+    and exceed all your expectations.</p>
 
-    <p>Whatever you have in mind please do not hesitate to contact one of our Event Coordinators.</p>
+    <p>With our credentials, standards and high profile it has enabled our
+    company to serve a Clientele which is end-less: Royalty, Lord Lieutant&apos;s,
+    High Sheriff&apos;s, Dean of Rochester Cathedral, Admirals, Sir&apos;s, Mayor&apos;s
+    and the like.</p>
 </div>
