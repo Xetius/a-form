@@ -1,25 +1,26 @@
 <div class="content">
     <h1>About Us</h1>
-    <img class="about" src="images/about.jpg" alt="about" />
 
-    <p class="first">THERE AE NO SECRETS TO SUCCESS. IT IS THE RESULT
-    OF PREPARATION, HARDWORK, DEDICATION, PASSION &
-    EXPERIENCE.<p>
+    <div class="home_slideshow about">
+        <img src="images/slideshow/1.jpg"/>
+        <img src="images/slideshow/2.jpg"/>
+        <img src="images/slideshow/3.jpg"/>
+        <img src="images/slideshow/4.jpg"/>
+        <img src="images/slideshow/5.jpg"/>
+        <img src="images/slideshow/6.jpg"/>
+        <img src="images/slideshow/7.jpg"/>
+        <img src="images/slideshow/8.jpg"/>
+    </div>
 
-    <p>As one of the Southeast&apos;s most exclusive caterer with over 17 years
-    of experience, our company can handle event&apos;s: Weddings, Corporate
-    Summer Balls, Corporate Dinning, Buffet&apos;s, Champagne &amp; Canap&eacute;s
-    Reception, Spit Roast, BBQ&apos;s, Mobile Bars, in fact all &apos;FORM&apos;s of
-    Catering&apos;, at all types of venue&apos;s to fix buildings, marquee&apos;s, Naval ships
-    and so on.</p>
+    <p class="first">With over 19 years of experience a F.O.R.M, also known as Alexander Catering, are proud to
+    supply the highest quality of service and cuisine.</p>
 
-    <p>We pride ourselves in offering a gracious, honest, flexible and reliable
-    service. Whether you are planning an intimate gathering or a lavish
-    affair, we will help you to create an event that will delight your guests
-    and exceed all your expectations.</p>
+    <p>a F.O.R.M can handle a variety of events, from weddings to buffets, corporate dining and
+    hog roasts. We can offer you a bespoke menu to suit your exact needs and budget for any
+    number of guests.</p>
 
-    <p>With our credentials, standards and high profile it has enabled our
-    company to serve a Clientele which is end-less: Royalty, Lord Lieutant&apos;s,
-    High Sheriff&apos;s, Dean of Rochester Cathedral, Admirals, Sir&apos;s, Mayor&apos;s
-    and the like.</p>
+    <p>Based in Kent we have been privileged to work with a wide range of clients at some of the
+    South East&apos;s most beautiful venues, including Winters Barn in Canterbury and Rochester
+    Cathedral.</p>
+
 </div>

@@ -6,6 +6,6 @@
         <li><a href="suppliers">Suppliers</a></li>
         <li><a href="testimonials">Testimonials</a></li>
         <li><a href="menus">Menu</a></li>
-        <li class="last"><a href="contact">Contact Us</a></li>
+        <li><a href="contact">Contact Us</a></li>
     </ul>
 </div>

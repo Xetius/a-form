@@ -9,8 +9,8 @@ body {
     color: black;
     margin: 0px;
     text-align: left;
-    font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, Helvetica, Arial, sans-serif;
-    font-size: 75%;
+    font-family: Calibri, "Lucida Grande", "Lucida Sans Unicode", Verdana, Helvetica, Arial, sans-serif;
+    font-size: 14px;
 }
 
 .header {
@@ -26,8 +26,8 @@ body {
 .menu {
     width: 100%;
     float: left;
-    background-color: #920042;
-    height: 27px;
+    background-color: #851243;
+    height: 29px;
 }
 
 ul.menu {
@@ -55,6 +55,7 @@ ul.menu li a {
     padding: 6px 20px;
     color: white;
     text-decoration: none;
+    font-size: 14px;
 }
 
 ul.menu li a {
@@ -80,7 +81,7 @@ img.logo {
     width: 289px;
 }
 
-img.about {
+.about {
     float: right;
     border: 5px black solid;
     border-radius: 5px;
@@ -94,8 +95,8 @@ div.footer {
     width: 100%;
     margin-top: 60px;
     padding-top: 30px;
-    border-top: 1px black solid;
-    font-family: helvetica sans-serif;
+    border-top: 1px #851243 solid;
+    font-family: Calibri helvetica sans-serif;
     font-size: 10px;
     color: gray;
 }
@@ -382,13 +383,22 @@ div.testemonial blockquote p {
 
 div.testemonial blockquote p:first-letter {
     font-size: 200%;
-    color: #920042;
+    color: #851243;
 }
 
 .testimonial span {
     display: block;
     float: right;
     text-align: right;
-    color: #777777;
+    color: #851243;
     font-style: italic;
+}
+
+span.highlight {
+    color: #851243;
+}
+
+table td {
+    vertical-align: text-top;
+    padding-right: 20px;
 }

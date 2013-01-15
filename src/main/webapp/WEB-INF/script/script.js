@@ -59,7 +59,7 @@ var AFORM = (function ($) {
         },
 
         initGallery : function () {
-            addGalleries(36);
+            addGalleries(35);
             // We only want these styles applied when javascript is enabled
             $('div.navigation').css({'width' : '300px', 'float' : 'left'});
             $('div.gallery-content').css('display', 'block');
@@ -137,6 +137,15 @@ var AFORM = (function ($) {
             $('.img_grayscale').mouseout(function(){
                 $(this).stop().animate({opacity:0}, 500);
             });
+        },
+
+        setupSlideshow : function() {
+            $('.home_slideshow').cycle({
+                fx: 'fade'
+            });
         }
+
     }
+
+
 }(jQuery));
