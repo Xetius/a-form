@@ -1,9 +1,9 @@
 <div class="content">
     <h1>Menus</h1>
 
-    <p class="first">CREATIVE CUISINE<br/>
+    <p class="first"><span class="highlight">CREATIVE CUISINE<br/>
     EXQUISITE PRESENTATION<br/>
-    EXTRA ORDINARY SERVICE</p>
+    EXTRA ORDINARY SERVICE</span></p>
 
     <p>As part of our services, on our major events, all menus are sampled
     prior to the occasion. We warmly invite you to our base at Gillingham

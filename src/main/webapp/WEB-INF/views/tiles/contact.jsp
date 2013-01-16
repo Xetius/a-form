@@ -3,7 +3,7 @@
 
     <table>
         <tr>
-            <td>Address</td>
+            <td><span class="highlight">Address</span></td>
             <td>
                 Unit B14,<br/>
                 Laser Quay,<br/>
@@ -15,11 +15,11 @@
             </td>
         </tr>
         <tr>
-            <td>Telephone</td>
+            <td><span class="highlight">Telephone</span></td>
             <td>01634 711117</td>
         </tr>
         <tr>
-            <td>e-mail</td>
+            <td><span class="highlight">e-mail</span></td>
             <td><a href="mailto:info@a-form.co.uk">info@a-form.co.uk</a></td>
         </tr>
     </table>

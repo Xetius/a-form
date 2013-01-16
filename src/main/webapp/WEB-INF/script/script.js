@@ -59,7 +59,7 @@ var AFORM = (function ($) {
         },
 
         initGallery : function () {
-            addGalleries(35);
+            addGalleries(44);
             // We only want these styles applied when javascript is enabled
             $('div.navigation').css({'width' : '300px', 'float' : 'left'});
             $('div.gallery-content').css('display', 'block');

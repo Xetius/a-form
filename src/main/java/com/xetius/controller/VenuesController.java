@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
  */
 @Controller
 public class VenuesController {
+
     @RequestMapping(value = "/venues", method = RequestMethod.GET)
     public String showVenuesPage() {
         return "venues";

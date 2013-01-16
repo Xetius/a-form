@@ -1,8 +1,8 @@
 <div class="content">
     <h1>Testimonials</h1>
 
-    <p class="first">IF YOU PROVIDE A GREAT SERVICE , YOUR CUSTOMERS WILL
-        SPREAD THE WORD:-</p>
+    <p class="first"><span class="highlight">IF YOU PROVIDE A GREAT SERVICE , YOUR CUSTOMERS WILL
+        SPREAD THE WORD:-</span></p>
 
     <p>We know the best form of advertising our business is <span class="highlight">&lsquo;The Client&rsquo;</span> and
         we are delighted that so much of our business has been based on their
