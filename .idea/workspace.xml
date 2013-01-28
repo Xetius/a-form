@@ -2,114 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79cb2741-a95a-47c9-aafb-b031cb4f729f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/36.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/37.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/37.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/38.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/38.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/39.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/39.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/40.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/40.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/41.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/41.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/42.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/42.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/43.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/43.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/44.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/44.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/1.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/1.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/10.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/10.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/11.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/11.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/12.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/12.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/12.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/12.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/13.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/13.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/13.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/13.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/14.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/14.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/14.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/14.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/15.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/15.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/15.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/15.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/16.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/16.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/16.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/16.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/17.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/17.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/17.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/17.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/18.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/18.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/18.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/18.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/19.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/19.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/19.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/19.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/2.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/2.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/20.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/20.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/20.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/20.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/21.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/21.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/21.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/21.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/22.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/22.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/22.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/22.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/23.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/23.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/23.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/23.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/24.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/24.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/24.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/24.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/25.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/25.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/25.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/25.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/26.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/26.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/26.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/26.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/27.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/27.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/27.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/27.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/28.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/28.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/28.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/28.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/29.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/29.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/29.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/29.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/3.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/3.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/30.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/30.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/30.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/30.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/31.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/31.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/31.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/31.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/32.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/32.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/32.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/32.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/33.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/33.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/33.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/33.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/34.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/34.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/34.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/34.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/35.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/35.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/35.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/35.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/36.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/36.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/4.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/4.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/5.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/5.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/6.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/6.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/7.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/7.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/8.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/8.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/9.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/9.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/xetius/controller/ContactController.java" afterPath="$PROJECT_DIR$/src/main/java/com/xetius/controller/ContactController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/xetius/controller/GalleryController.java" afterPath="$PROJECT_DIR$/src/main/java/com/xetius/controller/GalleryController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/xetius/controller/HomeController.java" afterPath="$PROJECT_DIR$/src/main/java/com/xetius/controller/HomeController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/xetius/controller/MenusController.java" afterPath="$PROJECT_DIR$/src/main/java/com/xetius/controller/MenusController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/xetius/controller/SuppliersController.java" afterPath="$PROJECT_DIR$/src/main/java/com/xetius/controller/SuppliersController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/xetius/controller/TestimonialsController.java" afterPath="$PROJECT_DIR$/src/main/java/com/xetius/controller/TestimonialsController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/xetius/controller/VenuesController.java" afterPath="$PROJECT_DIR$/src/main/java/com/xetius/controller/VenuesController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/contact.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/contact.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/menus.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/menus.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/images/email.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/images/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/images/telephone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/images/web.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/B&amp;B Catering.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/images/slideshow/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/images/slideshow/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/images/slideshow/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/images/slideshow/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/images/slideshow/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/images/slideshow/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/images/slideshow/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/images/slideshow/8.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/footer.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/footer.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/home.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/home.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/script/script.js" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/script/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/testimonials.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/testimonials.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/style/style.css" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/style/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="a-form.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="79cb2741-a95a-47c9-aafb-b031cb4f729f" time="1358330638186" ignored="false" />
+    <file path="/Dummy.txt" changelist="79cb2741-a95a-47c9-aafb-b031cb4f729f" time="1359315448046" ignored="false" />
     <file path="/a-form-servlet.xml" changelist="79cb2741-a95a-47c9-aafb-b031cb4f729f" time="1358280743439" ignored="false" />
     <file path="/testimonials.jsp" changelist="79cb2741-a95a-47c9-aafb-b031cb4f729f" time="1358281635868" ignored="false" />
     <file path="/contact.jsp" changelist="79cb2741-a95a-47c9-aafb-b031cb4f729f" time="1358281680435" ignored="false" />
     <file path="/menus.jsp" changelist="79cb2741-a95a-47c9-aafb-b031cb4f729f" time="1358281721010" ignored="false" />
+    <file path="/home.jsp" changelist="79cb2741-a95a-47c9-aafb-b031cb4f729f" time="1359144380464" ignored="false" />
+    <file path="/style.css" changelist="79cb2741-a95a-47c9-aafb-b031cb4f729f" time="1359326591590" ignored="false" />
+    <file path="/footer.jsp" changelist="79cb2741-a95a-47c9-aafb-b031cb4f729f" time="1359325584504" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,6 +46,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -158,7 +81,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -168,73 +90,70 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="38.jpg" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/38.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="home.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/home.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="22" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="37.jpg" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/37.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="default_scripts.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/default_scripts.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1358277262000" expanded="false" signature="65:99" placeholder="{...}" />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="36.jpg" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/36.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="slideshow.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/slideshow.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="21" selection-start="190" selection-end="190" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="35.jpg" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/35.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/script/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="142" column="16" selection-start="6080" selection-end="6080" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1359144394226" expanded="false" signature="5254:5275" placeholder="..." />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="34.jpg" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/34.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="footer.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/footer.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="90" selection-start="407" selection-end="407" vertical-scroll-proportion="-3.75">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="33.jpg" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/33.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="contact.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/contact.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="68" selection-start="648" selection-end="665" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="32.jpg" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/32.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="31.jpg" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/31.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="43.jpg" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/43.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="43.jpg" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/43.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/style/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="416" column="12" selection-start="7385" selection-end="7385" vertical-scroll-proportion="0.42190668">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -256,8 +175,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/home.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/views.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/a-form-servlet.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/xetius/controller/VenuesController.java" />
@@ -267,11 +184,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/xetius/controller/HomeController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xetius/controller/GalleryController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xetius/controller/ContactController.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/style/style.css" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/testimonials.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/contact.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/menus.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/script/script.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/home.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/footer.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/style/style.css" />
       </list>
     </option>
   </component>
@@ -396,6 +315,16 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="PackagesPane">
         <subPane>
           <PATH>
@@ -558,37 +487,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="thumbs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="a-form" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="a-form" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gallery" />
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -624,14 +523,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
           <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
+            <PATH_ELEMENT>
+              <option name="myItemId" value="a-form" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="a-form" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -647,6 +554,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="MavenSettings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bizrate-eu-webapp/pom.xml" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -662,11 +570,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/images" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/images/slideshow" />
       <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs" />
       <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery" />
       <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/views" />
-      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles" />
-      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/style" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/images" />
@@ -937,20 +845,21 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39046392" sideWeight="0.80259365" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39014646" sideWeight="0.80259365" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26023778" sideWeight="0.5180115" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32805756" sideWeight="0.9991736" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13535354" sideWeight="0.608522" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13535354" sideWeight="0.747004" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28350168" sideWeight="0.608522" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25565913" sideWeight="0.47694525" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28350168" sideWeight="0.747004" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.252996" sideWeight="0.47694525" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Phing Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
@@ -959,7 +868,6 @@
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288948" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32805756" sideWeight="0.9991736" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1058,51 +966,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/44.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/42.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/41.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/40.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/39.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/38.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/37.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/36.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/gallery/35.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1136,6 +999,73 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/thumbs/43.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/gallery_scripts.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="20" selection-start="343" selection-end="343" vertical-scroll-proportion="0.15064563">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/menu.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/default_scripts.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1358277262000" expanded="false" signature="65:99" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/slideshow.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="21" selection-start="190" selection-end="190" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/home.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="22" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/script/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="142" column="16" selection-start="6080" selection-end="6080" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1359144394226" expanded="false" signature="5254:5275" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/contact.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="68" selection-start="648" selection-end="665" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/footer.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="90" selection-start="407" selection-end="407" vertical-scroll-proportion="-3.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/style/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="416" column="12" selection-start="7385" selection-end="7385" vertical-scroll-proportion="0.42190668">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

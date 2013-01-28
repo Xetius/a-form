@@ -1,15 +1,15 @@
 <div class="content">
     <h1>About Us</h1>
 
-    <div class="home_slideshow about">
-        <img src="images/slideshow/1.jpg"/>
-        <img src="images/slideshow/2.jpg"/>
-        <img src="images/slideshow/3.jpg"/>
-        <img src="images/slideshow/4.jpg"/>
-        <img src="images/slideshow/5.jpg"/>
-        <img src="images/slideshow/6.jpg"/>
-        <img src="images/slideshow/7.jpg"/>
-        <img src="images/slideshow/8.jpg"/>
+    <div id="slideshow" class="about">
+        <img src="images/slideshow/1.jpg" width="250" height="188"/>
+        <img src="images/slideshow/2.jpg" width="250" height="188"/>
+        <img src="images/slideshow/3.jpg" width="250" height="188"/>
+        <img src="images/slideshow/4.jpg" width="250" height="188"/>
+        <img src="images/slideshow/5.jpg" width="250" height="188"/>
+        <img src="images/slideshow/6.jpg" width="250" height="188"/>
+        <img src="images/slideshow/7.jpg" width="188" height="250"/>
+        <img src="images/slideshow/8.jpg" width="250" height="188"/>
     </div>
 
     <p class="first">With over 19 years of experience a F.O.R.M, also known as Alexander Catering, are proud to

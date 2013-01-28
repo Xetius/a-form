@@ -27,7 +27,7 @@ body {
     width: 100%;
     float: left;
     background-color: #851243;
-    height: 29px;
+    height: 30px;
 }
 
 ul.menu {
@@ -83,11 +83,19 @@ img.logo {
 
 .about {
     float: right;
+}
+
+#slideshow {
+    margin: auto;
+    height: 250px;
+    width: 250px;
+}
+
+#slideshow img {
     border: 5px black solid;
     border-radius: 5px;
     margin: 0;
     margin-left: 20px;
-
 }
 
 div.footer {
@@ -401,4 +409,23 @@ span.highlight {
 table td {
     vertical-align: text-top;
     padding-right: 20px;
+}
+
+.loc-bar {
+    text-align: left;
+    font-family: Calibri, "Lucida Grande", "Lucida Sans Unicode", Verdana, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+}
+
+.loc-bar span{
+    vertical-align: middle;
+    padding-left: 5px;
+}
+
+.loc-bar a,
+.loc-bar a:active,
+.loc-bar a:hover,
+.loc-bar a:visited
+{
+    text-decoration: none;
 }

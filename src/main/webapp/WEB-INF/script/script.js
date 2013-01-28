@@ -77,11 +77,11 @@ var AFORM = (function ($) {
             // Initialize Advanced Galleriffic Gallery
             $('#thumbs').galleriffic({
                 delay:                     2500,
-                numThumbs:                 15,
+                numThumbs:                 8,
                 preloadAhead:              10,
                 enableTopPager:            true,
                 enableBottomPager:         true,
-                maxPagesToShow:            7,
+                maxPagesToShow:            6,
                 imageContainerSel:         '#slideshow',
                 controlsContainerSel:      '#controls',
                 captionContainerSel:       '#caption',
@@ -140,7 +140,7 @@ var AFORM = (function ($) {
         },
 
         setupSlideshow : function() {
-            $('.home_slideshow').cycle({
+            $('#slideshow').cycle({
                 fx: 'fade'
             });
         }
