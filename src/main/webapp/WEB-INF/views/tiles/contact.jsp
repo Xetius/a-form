@@ -22,5 +22,9 @@
             <td><span class="highlight">e-mail</span></td>
             <td><a href="mailto:info@a-form.co.uk">info@a-form.co.uk</a></td>
         </tr>
+        <tr>
+            <td><span class="highlight">Facebook</span></td>
+            <td><a href="http://facebook.com/aformcatering">facebook.com/aformcatering</a></td>
+        </tr>
     </table>
 </div>
