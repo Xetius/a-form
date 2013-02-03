@@ -1,4 +1,4 @@
-<div class="content">
+<div id="contact" class="_content">
     <h1>Contact Us</h1>
 
     <table>

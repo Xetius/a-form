@@ -1,4 +1,4 @@
-<div class="content">
+<div class="_content">
     <h1>About Us</h1>
 
     <div id="slideshow" class="about">

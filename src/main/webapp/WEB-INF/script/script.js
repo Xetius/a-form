@@ -61,8 +61,8 @@ var AFORM = (function ($) {
         initGallery : function () {
             addGalleries(44);
             // We only want these styles applied when javascript is enabled
-            $('div.navigation').css({'width' : '300px', 'float' : 'left'});
-            $('div.gallery-content').css('display', 'block');
+            $('div.navigation').css({'width' : '400px', 'float' : 'left'});
+            $('div.gallery-content').css('display', 'inline-block');
 
             // Initially set opacity on thumbs and add
             // additional styling for hover effect on thumbs
@@ -77,7 +77,7 @@ var AFORM = (function ($) {
             // Initialize Advanced Galleriffic Gallery
             $('#thumbs').galleriffic({
                 delay:                     2500,
-                numThumbs:                 8,
+                numThumbs:                 10,
                 preloadAhead:              10,
                 enableTopPager:            true,
                 enableBottomPager:         true,

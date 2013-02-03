@@ -1,4 +1,4 @@
-<div class="content">
+<div class="_content">
     <h1>Suppliers</h1>
 
     <div class="buttons">

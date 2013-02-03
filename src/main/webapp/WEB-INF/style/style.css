@@ -13,10 +13,12 @@ body {
     font-size: 14px;
 }
 
+div {
+}
+
 .header {
     width: 100%;
     height: 90px;
-    float: left;
 }
 
 .logo {
@@ -25,21 +27,19 @@ body {
 
 .menu {
     width: 100%;
-    float: left;
-    background-color: #851243;
+    background-color: #8E0045;
     height: 30px;
 }
 
 ul.menu {
-    float: left;
-    height: 27px;
+    height: 30px;
     margin: 0px;
     padding: 0px;
     list-style: none;
 }
 
 ul.menu li {
-    float: left;
+    display: inline;
     width: 150px;
     padding: 0px;
     margin: 0px;
@@ -51,11 +51,11 @@ ul.menu li.last {
 }
 
 ul.menu li a {
-    display: block;
     padding: 6px 20px;
     color: white;
     text-decoration: none;
     font-size: 14px;
+    display: inline-block;
 }
 
 ul.menu li a {
@@ -66,17 +66,15 @@ ul.menu li a:hover {
     background-position: 0 0;
 }
 
-div.content {
+div._content {
     padding: 20px 60px;
 }
 
-div.content p.first {
+div._content p.first {
     font-weight: bold;
 }
 
 img.logo {
-    position: relative;
-    float: left;
     height: 70px;
     width: 289px;
 }
@@ -99,261 +97,44 @@ img.logo {
 }
 
 div.footer {
-    float: left;
     width: 100%;
-    margin-top: 60px;
-    padding-top: 30px;
-    border-top: 1px #851243 solid;
+    margin-top: 175px;
+    padding-top: 10px;
+    border-top: 1px #8E0045 solid;
     font-family: Calibri helvetica sans-serif;
     font-size: 10px;
     color: gray;
 }
 
 div.footer span {
-    padding: 20px;
-}
-
-
-div.gallery a {
-    color: #27D;
-    text-decoration: none;
-}
-
-div.gallery a:focus, div.gallery a:hover, div.gallery a:active {
-    text-decoration: underline;
-}
-
-div.gallery p, div.gallery li {
-    line-height: 1.8em;
-}
-
-div.gallery h1, div.gallery h2 {
-    font-family: "Trebuchet MS", Verdana, sans-serif;
-    margin: 0 0 10px 0;
-    letter-spacing:-1px;
-}
-
-div.gallery pre {
-    font-size: 1.2em;
-    line-height: 1.2em;
-    overflow-x: auto;
-}
-
-div.gallery div#page {
-    float: left;
-    width: 900px;
-    background-color: #fff;
-    margin: 0;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: left;
-    border-color: #ddd;
-    border-style: none solid solid;
-    border-width: medium 1px 1px;
-}
-
-div.gallery div#container {
-    padding: 20px;
-}
-
-div.gallery div#ads {
-    clear: both;
-    padding: 12px 0 12px 66px;
-}
-
-div.gallery div#footer {
-    clear: both;
-    color: #777;
-    margin: 0 auto;
-    padding: 20px 0 40px;
-    text-align: center;
-}
-
-div.gallery div.gallery-content {
-    /* The display of content is enabled using jQuery so that the slideshow content won't display unless javascript is enabled. */
-    display: none;
-    float: right;
-    width: 550px;
-}
-
-div.gallery div.content a, div.gallery div.navigation a {
-    text-decoration: none;
-    color: #777;
-}
-
-div.gallery div.content a:focus, div.gallery div.content a:hover, div.gallery div.content a:active {
-    text-decoration: underline;
-}
-
-div.gallery div.controls {
-    margin-top: 5px;
-    height: 23px;
-}
-
-div.gallery div.controls a {
     padding: 5px;
 }
 
-div.gallery div.ss-controls {
-    float: left;
-}
-
-div.gallery div.nav-controls {
-    float: right;
-}
-
-div.gallery div.slideshow-container {
+div.footer img {
+    padding-left: 5px;
     position: relative;
-    clear: both;
-    height: 502px; /* This should be set to be at least the height of the largest image in the slideshow */
+    top: 2px;
 }
 
-div.gallery div.loader {
-    position: absolute;
-    top: 0;
-    left: 0;
-    background-image: url('../images/loader.gif');
-    background-repeat: no-repeat;
-    background-position: center;
-    width: 550px;
-    height: 502px; /* This should be set to be at least the height of the largest image in the slideshow */
+div.footer .loc-bar {
+    text-align: left;
+    font-family: Calibri, "Lucida Grande", "Lucida Sans Unicode", Verdana, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    display: inline;
 }
 
-div.gallery div.slideshow {
-
-}
-
-div.gallery div.slideshow span.image-wrapper {
-    display: block;
-    position: absolute;
-    top: 0;
-    left: 0;
-}
-
-div.gallery div.slideshow a.advance-link {
-    display: block;
-    width: 550px;
-    height: 502px; /* This should be set to be at least the height of the largest image in the slideshow */
-    line-height: 502px; /* This should be set to be at least the height of the largest image in the slideshow */
-    text-align: center;
-}
-
-div.gallery div.slideshow a.advance-link:hover,
-div.gallery div.slideshow a.advance-link:active,
-div.gallery div.slideshow a.advance-link:visited {
-    text-decoration: none;
-}
-
-div.gallery div.slideshow img {
+div.footer .loc-bar span{
     vertical-align: middle;
-    border: 1px solid #ccc;
+    padding-left: 5px;
+    color: #8E0045;
 }
 
-div.gallery div.download {
-    float: right;
-}
-
-div.gallery div.caption-container {
-    position: relative;
-    clear: left;
-    height: 75px;
-}
-
-div.gallery span.image-caption {
-    display: block;
-    position: absolute;
-    width: 550px;
-    top: 0;
-    left: 0;
-}
-
-div.gallery div.caption {
-    padding: 12px;
-}
-
-div.gallery div.image-title {
-    font-weight: bold;
-    font-size: 1.4em;
-}
-
-div.gallery div.image-desc {
-    line-height: 1.3em;
-    padding-top: 12px;
-}
-
-div.gallery div.navigation {
-    /* The navigation style is set using jQuery so that the javascript specific styles won't be applied unless javascript is enabled. */
-}
-
-div.gallery ul.thumbs {
-    clear: both;
-    margin: 0;
-    padding: 0;
-}
-
-div.gallery ul.thumbs li {
-    float: left;
-    padding: 0;
-    margin: 5px 10px 5px 0;
-    list-style: none;
-}
-
-div.gallery a.thumb {
-    padding: 2px;
-    display: block;
-    border: 1px solid #ccc;
-}
-div.gallery ul.thumbs li.selected a.thumb {
-    background: #000;
-}
-
-div.gallery a.thumb:focus {
-    outline: none;
-}
-
-div.gallery ul.thumbs img {
-    border: none;
-    display: block;
-}
-
-div.gallery div.pagination {
-    clear: both;
-}
-
-div.gallery div.navigation div.top {
-    margin-bottom: 12px;
-    height: 11px;
-}
-
-div.gallery div.navigation div.bottom {
-    margin-top: 12px;
-}
-
-div.gallery div.pagination a,
-div.gallery div.pagination span.current,
-div.gallery div.pagination span.ellipsis {
-    display: block;
-    float: left;
-    margin-right: 2px;
-    padding: 4px 7px 2px 7px;
-    border: 1px solid #ccc;
-}
-
-div.gallery div.pagination a:hover {
-    background-color: #eee;
+div.footer .loc-bar a,
+div.footer .loc-bar a:active,
+div.footer .loc-bar a:hover,
+div.footer .loc-bar a:visited
+{
     text-decoration: none;
-}
-
-div.gallery div.pagination span.current {
-    font-weight: bold;
-    background-color: #000;
-    border-color: #000;
-    color: #fff;
-}
-
-div.gallery div.pagination span.ellipsis {
-    border: none;
-    padding: 5px 0 3px 2px;
 }
 
 .buttons {
@@ -374,7 +155,6 @@ div.gallery div.pagination span.ellipsis {
 div.testimonial {
     margin-left: auto;
     margin-right: auto;
-    position: relative;
     display: inline-block;
     width: 100%;
 }
@@ -391,19 +171,18 @@ div.testemonial blockquote p {
 
 div.testemonial blockquote p:first-letter {
     font-size: 200%;
-    color: #851243;
+    color: #8E0045;
 }
 
 .testimonial span {
     display: block;
-    float: right;
     text-align: right;
-    color: #851243;
+    color: #8E0045;
     font-style: italic;
 }
 
 span.highlight {
-    color: #851243;
+    color: #8E0045;
 }
 
 table td {
@@ -411,21 +190,10 @@ table td {
     padding-right: 20px;
 }
 
-.loc-bar {
-    text-align: left;
-    font-family: Calibri, "Lucida Grande", "Lucida Sans Unicode", Verdana, Helvetica, Arial, sans-serif;
-    font-size: 12px;
-}
-
-.loc-bar span{
-    vertical-align: middle;
-    padding-left: 5px;
-}
-
-.loc-bar a,
-.loc-bar a:active,
-.loc-bar a:hover,
-.loc-bar a:visited
-{
-    text-decoration: none;
+div#contact a,
+div#contact a:active,
+div#contact a:hover,
+div#contact a:visited {
+    color: #8E0045;
+    text-decoration: underline;
 }
