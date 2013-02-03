@@ -1,11 +1,10 @@
 div#thumbs {
     display: inline-block;
-    width: 420px;
+    width: 450px;
 }
 
 div#gallery {
     display: inline-block;
-    width: 510px;
 }
 
 div#container {
