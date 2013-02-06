@@ -23,6 +23,7 @@ div {
 
 .logo {
     margin: 10px;
+    border: 0;
 }
 
 .menu {
@@ -67,7 +68,7 @@ ul.menu li a:hover {
 }
 
 div._content {
-    padding: 20px 60px;
+    margin: 20px 60px;
 }
 
 div._content p.first {
@@ -111,6 +112,7 @@ div.footer span {
 }
 
 div.footer img {
+    border: 0;
     padding-left: 5px;
     position: relative;
     top: 2px;
@@ -141,6 +143,7 @@ div.footer .loc-bar a:visited
 }
 
 .buttons img {
+    border: 0;
     height: 100px;
     width: 600px;
 }

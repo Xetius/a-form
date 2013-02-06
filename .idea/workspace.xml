@@ -2,19 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79cb2741-a95a-47c9-aafb-b031cb4f729f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/style/gallery.css" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/style/gallery.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/style/gallery2.css" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/style/gallery2.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/main_template.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/main_template.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/style/style.css" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/style/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="a-form.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="79cb2741-a95a-47c9-aafb-b031cb4f729f" time="1359926975193" ignored="false" />
+    <file path="/Dummy.txt" changelist="79cb2741-a95a-47c9-aafb-b031cb4f729f" time="1360167457755" ignored="false" />
     <file path="/a-form-servlet.xml" changelist="79cb2741-a95a-47c9-aafb-b031cb4f729f" time="1358280743439" ignored="false" />
     <file path="/testimonials.jsp" changelist="79cb2741-a95a-47c9-aafb-b031cb4f729f" time="1359536801338" ignored="false" />
     <file path="/contact.jsp" changelist="79cb2741-a95a-47c9-aafb-b031cb4f729f" time="1359536738566" ignored="false" />
     <file path="/menus.jsp" changelist="79cb2741-a95a-47c9-aafb-b031cb4f729f" time="1359536769874" ignored="false" />
     <file path="/home.jsp" changelist="79cb2741-a95a-47c9-aafb-b031cb4f729f" time="1359536759699" ignored="false" />
-    <file path="/style.css" changelist="79cb2741-a95a-47c9-aafb-b031cb4f729f" time="1359535579123" ignored="false" />
+    <file path="/style.css" changelist="79cb2741-a95a-47c9-aafb-b031cb4f729f" time="1360170837924" ignored="false" />
     <file path="/footer.jsp" changelist="79cb2741-a95a-47c9-aafb-b031cb4f729f" time="1359536592598" ignored="false" />
     <file path="/a.dummy" changelist="79cb2741-a95a-47c9-aafb-b031cb4f729f" time="1359740374123" ignored="false" />
     <file path="/gallery_scripts.jsp" changelist="79cb2741-a95a-47c9-aafb-b031cb4f729f" time="1359480843991" ignored="false" />
@@ -37,7 +37,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -72,6 +71,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -84,65 +84,25 @@
       <file leaf-file-name="gallery.jsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/gallery.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="15" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0">
+            <state line="3" column="15" selection-start="60" selection-end="60" vertical-scroll-proportion="-1.875">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jquery.galleriffic.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/script/jquery.galleriffic.js">
+      <file leaf-file-name="suppliers.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/suppliers.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="113" column="21" selection-start="4186" selection-end="4186" vertical-scroll-proportion="0.0">
+            <state line="4" column="127" selection-start="124" selection-end="200" vertical-scroll-proportion="-2.5">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jquery.history.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/script/jquery.history.js">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/style/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1358278364749" expanded="false" signature="1087:1101" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jquery.opacityrollover.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/script/jquery.opacityrollover.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/script/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="45" selection-start="3126" selection-end="3126" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1359740504546" expanded="false" signature="5262:5283" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gallery.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/style/gallery.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="94" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gallery2.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/style/gallery2.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="65" column="0" selection-start="0" selection-end="2947" vertical-scroll-proportion="0.88721806">
+            <state line="145" column="14" selection-start="2143" selection-end="2143" vertical-scroll-proportion="0.5043478">
               <folding />
             </state>
           </provider>
@@ -166,7 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/xetius/controller/HomeController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xetius/controller/GalleryController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xetius/controller/ContactController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/gallery_scripts.jsp" />
@@ -177,11 +136,12 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/suppliers.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/testimonials.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/venues.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/style/style.css" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/gallery.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/script/script.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/style/gallery.css" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/style/gallery2.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/main_template.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/style/style.css" />
       </list>
     </option>
   </component>
@@ -861,8 +821,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13535354" sideWeight="0.74833554" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23299663" sideWeight="0.74833554" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25166446" sideWeight="0.993266" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23299663" sideWeight="0.6524634" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34753662" sideWeight="0.993266" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Phing Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
@@ -972,13 +932,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/menu.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/gallery_scripts.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="52" selection-start="502" selection-end="502" vertical-scroll-proportion="0.32480314">
@@ -1000,19 +953,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/style/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="137" selection-end="137" vertical-scroll-proportion="-0.3326316" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/views.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/main_template.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -1029,25 +970,32 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/gallery.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/style/gallery2.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="15" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0">
+        <state line="36" column="0" selection-start="582" selection-end="582" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/script/jquery.galleriffic.js">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/main_template.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="113" column="21" selection-start="4186" selection-end="4186" vertical-scroll-proportion="0.0">
+        <state line="0" column="90" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/script/jquery.history.js">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/style/gallery.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="7" column="94" selection-start="103" selection-end="103" vertical-scroll-proportion="0.2173913">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/script/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="45" selection-start="3126" selection-end="3126" vertical-scroll-proportion="0.033557046">
           <folding>
-            <marker date="1358278364749" expanded="false" signature="1087:1101" placeholder="..." />
+            <marker date="1359740504546" expanded="false" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1059,25 +1007,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/script/script.js">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/script/jquery.history.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="45" selection-start="3126" selection-end="3126" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1359740504546" expanded="false" signature="5262:5283" placeholder="..." />
+            <marker date="1358278364749" expanded="false" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/style/gallery.css">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/script/jquery.galleriffic.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="94" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0">
+        <state line="113" column="21" selection-start="4186" selection-end="4186" vertical-scroll-proportion="0.033557046">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/style/gallery2.css">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/gallery.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="0" selection-start="0" selection-end="2947" vertical-scroll-proportion="0.88721806">
+        <state line="3" column="15" selection-start="60" selection-end="60" vertical-scroll-proportion="-1.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/tiles/suppliers.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="127" selection-start="124" selection-end="200" vertical-scroll-proportion="-2.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/style/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="145" column="14" selection-start="2143" selection-end="2143" vertical-scroll-proportion="0.5043478">
           <folding />
         </state>
       </provider>
