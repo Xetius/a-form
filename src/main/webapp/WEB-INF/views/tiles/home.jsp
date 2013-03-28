@@ -20,7 +20,7 @@
     number of guests.</p>
 
     <p>Based in Kent we have been privileged to work with a wide range of clients at some of the
-    South East&apos;s most beautiful venues, including Winters Barn in Canterbury and Rochester
+    South East&apos;s most beautiful venues, including Winters Barns in Canterbury and Rochester
     Cathedral.</p>
 
 </div>
